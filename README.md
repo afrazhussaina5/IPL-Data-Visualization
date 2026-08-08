@@ -42,27 +42,31 @@ This project analyzes IPL player statistics using Python, Pandas, and Matplotlib
 - Generated statistical summaries of IPL player performance.
 - Visualized Virat Kohli's batting statistics.
 
-## 📁 Project Structure
-
-IPL-Data-Visualization/
-│── IPL_Data_Visualization.ipynb
-│── IPL_Stat_with_season_All_Player_who_played_in_2016_2025.json
-│── IPL_Processed_Data.csv
-│── Top10_Batsmen.csv
-│── README.md
-│── requirements.txt
-│── LICENSE
+📁 Project Structure
 │
-├── images/
-│ ├── bar_chart.png
-│ ├── line_chart.png
-│ ├── pie_chart.png
-│ ├── histogram.png
-│ ├── scatter_plot.png
-│ ├── box_plot.png
-│ ├── heatmap.png
-│ └── virat_kohli_chart.png
-
+├── IPL_Player_Statistics.ipynb
+├── IPL_Stat_with_season_All_Player_who_played_in_2016_2025.json
+├── IPL_Processed_Data.csv
+├── Top10_Batsmen.csv
+├── README.md
+├── requirements.txt
+├── LICENSE
+│
+├── Images/
+│   ├── bar_chart.png
+│   ├── line_chart.png
+│   ├── pie_chart.png
+│   ├── histogram.png
+│   ├── scatter_plot.png
+│   ├── box_plot.png
+│   ├── heatmap.png
+│   └── virat_kohli_chart.png
+│
+├── Report/
+│   └── IPL_Player_Statistics_Report.pdf
+│
+└── Presentation/
+    └── IPL_Player_Statistics_Presentation.pdf
 ## ▶️ How to Run
 
 1. Clone the repository
